@@ -1,0 +1,259 @@
+year,ranking,company_name
+2009,1,nvidia
+2009,2,hubspot
+2009,3,bain & company
+2009,4,exp realty
+2009,5,box
+2009,6,boston consulting group
+2009,7,google
+2009,8,veterans united home loans
+2009,9,lululemon
+2009,10,salesforce
+2009,11,royal caribbean group
+2009,12,nasa jet propulsion laboratory
+2009,13,five9
+2009,14,twilio
+2009,15,johns hopkins university applied physics laboratory
+2009,16,adobe
+2009,17,akamai
+2009,18,delta air lines
+2009,19,linkedin
+2009,20,rivian
+2010,1,southwest airlines
+2010,2,general mills
+2010,3,slalom
+2010,4,bain & company
+2010,5,mckinsey & company
+2010,6,mitre
+2010,7,boston consulting group
+2010,9,procter & gamble
+2010,10,juniper networks
+2010,11,northwestern mutual
+2010,12,kraft foods
+2010,13,national instruments
+2010,14,google
+2010,15,netapp
+2010,16,goldman sachs
+2010,17,factset
+2010,18,medtronic
+2010,19,publix
+2010,20,chevron
+2011,1,facebook
+2011,2,southwest airlines
+2011,3,bain & company
+2011,4,general mills
+2011,5,edelman
+2011,6,boston consulting group
+2011,7,sas institute
+2011,8,slalom
+2011,9,overstock.com
+2011,10,susquehanna international group (sig)
+2011,11,careerbuilder
+2011,12,mitre
+2011,13,quiktrip
+2011,14,shutterfly
+2011,15,netapp
+2011,16,trader joe's
+2011,17,goldman sachs
+2011,18,mckinsey & company
+2011,19,national instruments
+2011,20,apple
+2012,1,bain & company
+2012,2,mckinsey & company
+2012,3,facebook
+2012,4,mitre
+2012,5,google
+2012,6,careerbuilder
+2012,7,slalom
+2012,8,rei
+2012,9,trader joe's
+2012,10,apple
+2012,11,general mills
+2012,12,rackspace technology
+2012,13,salesforce
+2012,14,united space alliance
+2012,15,dow
+2012,16,chevron
+2012,17,southwest airlines
+2012,18,national instruments
+2012,19,wayfair
+2012,20,citrix
+2013,1,facebook
+2013,2,mckinsey & company
+2013,3,riverbed technology
+2013,4,bain & company
+2013,5,md anderson cancer center
+2013,6,google
+2013,7,edelman
+2013,8,national instruments
+2013,9,in-n-out burger
+2013,10,boston consulting group
+2013,11,careerbuilder
+2013,12,southwest airlines
+2013,13,chevron
+2013,14,linkedin
+2013,15,rackspace technology
+2013,16,gartner
+2013,17,akamai
+2013,18,shell
+2013,19,workday
+2013,20,cummins
+2014,1,bain & company
+2014,2,twitter
+2014,3,linkedin
+2014,4,eastman
+2014,5,facebook
+2014,6,guidewire
+2014,8,google
+2014,9,orbitz worldwide
+2014,10,nestlé purina u.s.
+2014,11,john deere
+2014,12,edelman
+2014,13,qualcomm
+2014,14,chevron
+2014,15,slalom
+2014,16,costco wholesale
+2014,17,riverbed technology
+2014,18,solarcity
+2014,19,intuit
+2014,20,gartner
+2015,1,google
+2015,2,bain & company
+2015,3,nestlé purina u.s.
+2015,4,f5
+2015,5,boston consulting group
+2015,6,chevron
+2015,7,h e b
+2015,8,in-n-out burger
+2015,9,mckinsey & company
+2015,10,mayo clinic
+2015,11,procter & gamble
+2015,12,brigham and women's hospital
+2015,13,facebook
+2015,14,qualcomm
+2015,15,southwest airlines
+2015,16,slalom
+2015,17,genentech
+2015,18,adobe
+2015,19,mathworks
+2015,20,stryker
+2016,1,airbnb
+2016,2,bain & company
+2016,3,guidewire
+2016,4,hubspot
+2016,5,facebook
+2016,6,linkedin
+2016,7,boston consulting group
+2016,8,google
+2016,9,nestlé purina u.s.
+2016,10,zillow
+2016,11,eastman
+2016,12,world wide technology
+2016,13,in-n-out burger
+2016,14,mindbody
+2016,15,power home remodeling
+2016,16,expedia group
+2016,17,h e b
+2016,18,riot games
+2016,19,adobe
+2016,20,memorial sloan kettering
+2017,1,bain & company
+2017,2,facebook
+2017,3,boston consulting group
+2017,4,google
+2017,5,world wide technology
+2017,6,fast enterprises
+2017,7,in-n-out burger
+2017,8,linkedin
+2017,9,adobe
+2017,10,power home remodeling
+2017,11,mckinsey & company
+2017,12,the clorox company
+2017,13,nestlé purina u.s.
+2017,14,paylocity
+2017,15,sap
+2017,16,mathworks
+2017,17,salesforce
+2017,18,forrester
+2017,19,the church of jesus christ of latter-day saints
+2017,20,intuit
+2018,1,facebook
+2018,2,bain & company
+2018,3,boston consulting group
+2018,4,in-n-out burger
+2018,5,google
+2018,6,lululemon
+2018,7,hubspot
+2018,8,world wide technology
+2018,9,st. jude children's research hospital
+2018,10,ukg (ultimate kronos group)
+2018,11,sap
+2018,12,mckinsey & company
+2018,13,keller williams
+2018,14,e. & j. gallo winery
+2018,15,salesforce
+2018,16,power home remodeling
+2018,17,delta air lines
+2018,18,academy mortgage
+2018,19,the church of jesus christ of latter-day saints
+2018,20,h e b
+2019,1,bain & company
+2019,2,zoom video communications
+2019,3,in-n-out burger
+2019,4,procore technologies
+2019,5,boston consulting group
+2019,6,linkedin
+2019,7,facebook
+2019,8,google
+2019,9,lululemon
+2019,10,southwest airlines
+2019,11,salesforce
+2019,12,intuitive (intuitive surgical)
+2019,13,st. jude children's research hospital
+2019,14,slalom
+2019,15,power home remodeling
+2019,16,hubspot
+2019,17,docusign
+2019,18,ukg (ultimate kronos group)
+2019,19,mckinsey & company
+2019,20,paylocity
+2020,1,hubspot
+2020,2,bain & company
+2020,3,docusign
+2020,4,in-n-out burger
+2020,5,sammons financial group companies
+2020,6,lawrence livermore national laboratory
+2020,7,intuitive (intuitive surgical)
+2020,8,ukg (ultimate kronos group)
+2020,9,vipkid
+2020,10,southwest airlines
+2020,11,google
+2020,12,linkedin
+2020,13,boston consulting group
+2020,14,trader joe's
+2020,15,covermymeds
+2020,16,mathworks
+2020,17,h e b
+2020,18,power home remodeling
+2020,19,md anderson cancer center
+2020,20,nvidia
+2021,1,bain & company
+2021,2,nvidia
+2021,3,in-n-out burger
+2021,4,hubspot
+2021,5,mckinsey & company
+2021,6,google
+2021,7,delta air lines
+2021,8,lululemon
+2021,9,microsoft
+2021,10,h e b
+2021,11,facebook
+2021,12,boston consulting group
+2021,13,linkedin
+2021,14,stryker
+2021,15,docusign
+2021,16,knowbe4
+2021,17,salesforce
+2021,18,ringcentral
+2021,19,emanate health
+2021,20,blue raven solar
